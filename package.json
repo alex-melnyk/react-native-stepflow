@@ -1,0 +1,27 @@
+{
+  "name": "react-native-stepflow",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-melnyk/react-native-stepflow.git"
+  },
+  "keywords": [
+    "React Native",
+    "Stepper",
+    "Component"
+  ],
+  "author": "Alex Melnyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-melnyk/react-native-stepflow/issues"
+  },
+  "homepage": "https://github.com/alex-melnyk/react-native-stepflow#readme",
+  "peerDependencies": {
+    "babel-preset-react-native": "^4.0.1",
+    "react": "^16.7.0",
+    "react-native": "^0.57.8",
+    "prop-types": "^15.6.2"
+  }
+}
